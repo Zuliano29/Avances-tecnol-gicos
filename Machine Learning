@@ -1,0 +1,45 @@
+El Machine Learning (aprendizaje automático) es una rama de la Inteligencia Artificial que se enfoca en crear algoritmos y modelos capaces de aprender de los datos y mejorar su rendimiento con la experiencia, sin necesidad de ser programados de forma explícita para cada tarea.
+
+
+Concepto esencial
+
+
+Aprender de ejemplos: el sistema analiza datos (números, texto, imágenes, audio…) y detecta patrones.
+
+Mejora continua: con más datos y retroalimentación, el modelo ajusta sus parámetros para ser más preciso.
+
+Automatización inteligente: permite que las máquinas tomen decisiones o hagan predicciones de forma autónoma.
+
+
+Cómo funciona
+
+
+Datos de entrenamiento → información inicial para que el modelo aprenda.
+
+Algoritmo → conjunto de reglas matemáticas que procesan esos datos.
+
+Entrenamiento → el modelo ajusta sus “pesos” internos para minimizar errores.
+
+Evaluación → se mide la precisión con datos nuevos.
+
+Optimización → se repite el ciclo hasta alcanzar el rendimiento deseado.
+
+
+Tipos principales
+
+
+Aprendizaje supervisado: el modelo aprende con datos etiquetados (ej. fotos de gatos y perros con su nombre).
+
+Aprendizaje no supervisado: el modelo busca patrones sin etiquetas (ej. segmentar clientes por comportamiento).
+
+Aprendizaje por refuerzo: el modelo aprende por prueba y error, recibiendo recompensas o penalizaciones (ej. entrenar un robot para caminar).
+
+
+Ejemplos de uso
+
+
+Recomendaciones en Netflix o Spotify.
+
+Detección de fraudes bancarios.
+
+Reconocimiento de voz y asistentes virtuales.
