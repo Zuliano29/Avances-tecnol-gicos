@@ -1,0 +1,41 @@
+El Deep Learning (aprendizaje profundo) es una rama avanzada del Machine Learning que utiliza redes neuronales artificiales con muchas capas —de ahí lo de “profundo”— para procesar y aprender de grandes volúmenes de datos de forma jerárquica.
+
+
+Concepto clave
+
+
+Inspiración biológica: imita, de forma simplificada, cómo las neuronas del cerebro procesan información.
+
+Capas jerárquicas: cada capa de la red aprende características cada vez más complejas a partir de la salida de la capa anterior.
+
+Autonomía en el aprendizaje: puede trabajar con datos no estructurados (imágenes, audio, texto) y extraer por sí mismo las características relevantes sin que un humano las defina explícitamente.
+
+
+Cómo funciona
+
+
+Entrada de datos → por ejemplo, una imagen.
+
+Capas iniciales → detectan patrones simples (bordes, colores).
+
+Capas intermedias → combinan esos patrones para reconocer formas o texturas.
+
+Capas profundas → identifican conceptos complejos (un rostro, un objeto, una palabra).
+
+Salida → clasificación, predicción o generación de contenido.
+
+
+Ejemplos de uso
+
+
+Reconocimiento facial y de voz.
+
+Traducción automática.
+
+Vehículos autónomos.
+
+Detección de fraudes.
+
+IA generativa (como la que crea imágenes o textos).
+
+Diferencia con el Machine Learning “tradicional”: En Machine Learning clásico, un humano suele definir qué características del dato son importantes. En Deep Learning, la red neuronal aprende esas características por sí misma a través de múltiples capas de procesamiento.
