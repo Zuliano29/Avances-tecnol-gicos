@@ -1,0 +1,25 @@
+Definición breves
+Cloud computing es el acceso bajo demanda por Internet a recursos informáticos —servidores, almacenamiento, redes, plataformas y software— que están alojados en centros de datos remotos y se pagan generalmente con modelos de suscripción o pago por uso.
+
+Modelos de servicio principales
+IaaS Infraestructura como Servicio: máquinas virtuales, almacenamiento y redes gestionadas por el proveedor.
+
+PaaS Plataforma como Servicio: entornos para desarrollar y desplegar aplicaciones.
+
+SaaS Software como Servicio: aplicaciones listas para usar (correo, oficina, CRM).
+
+Modelos de despliegue
+Nube pública: recursos compartidos y gestionados por proveedores externos.
+
+Nube privada: infraestructura dedicada a una sola organización.
+
+Nube híbrida: combinación de pública y privada para flexibilidad y cumplimiento.
+
+Ventajas clave
+Escalabilidad: aumentas o reduces recursos según demanda.
+
+Ahorro y pago por uso: evita comprar y mantener hardware propio.
+
+Acceso desde cualquier lugar: facilita trabajo remoto y colaboración.
+
+Recuperación y continuidad: opciones de respaldo y recuperación ante desastres

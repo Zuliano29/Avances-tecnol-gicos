@@ -1,0 +1,38 @@
+La Inteligencia Artificial (IA) es un campo de la informática que combina algoritmos, modelos matemáticos y grandes volúmenes de datos para que las máquinas puedan percibir, razonar, aprender y tomar decisiones de forma similar a como lo haría un ser humano.
+
+
+
+Fundamentos técnicos.
+
+
+Algoritmos: Conjuntos de instrucciones lógicas que guían el procesamiento de datos y la toma de decisiones.
+
+Datos: La materia prima. La IA aprende a partir de datos estructurados (tablas, bases de datos) y no estructurados (imágenes, texto, audio).
+
+Modelos matemáticos: Representaciones formales que permiten predecir, clasificar o generar información.
+
+
+Principales ramas.
+
+
+Aprendizaje automático (Machine Learning): Los sistemas se entrenan con datos para reconocer patrones y hacer predicciones sin ser programados explícitamente para cada tarea.
+
+Aprendizaje profundo (Deep Learning): Subcampo del anterior que usa redes neuronales artificiales con múltiples capas, inspiradas en la estructura del cerebro, para procesar información compleja como imágenes o lenguaje natural.
+
+Procesamiento de Lenguaje Natural (PLN): Permite que las máquinas comprendan, interpreten y generen lenguaje humano.
+
+Visión por computadora: Analiza y entiende imágenes y videos.
+
+
+Cómo funciona en la práctica.
+
+
+Entrada de datos → Sensores, cámaras, micrófonos o bases de datos.
+
+Preprocesamiento → Limpieza y normalización de datos.
+
+Entrenamiento → El modelo ajusta sus parámetros internos para minimizar errores.
+
+Inferencia → El sistema aplica lo aprendido para resolver nuevos casos.
+
+Retroalimentación → Ajusta y mejora su rendimiento con datos nuevos.
